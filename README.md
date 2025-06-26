@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Master Anon 👨‍💻</h1>
 
-<!--
-**Anonsxb/Anonsxb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🐍 Python Enthusiast • 🛡️ Cybersecurity Learner • 🐞 Bug Bounty Beginner  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+
+- 💻 I'm currently learning **Ethical Hacking** and **Bug Bounty Hunting**
+- 🐍 I use Python to build tools for **network analysis**, **automation**, and **security testing**
+- 🔒 Focused on developing my skills in **XSS**, **recon**, and **network exploitation**
+- 🧰 Building projects like keyloggers, ARP spoofers, MAC changers, and more
+
+---
+
+### 🛠️ Tech Stack
+
+```bash
+Languages:      Python, Bash, HTML
+Cyber Tools:    Nmap, Wireshark, Burp Suite, Scapy
+Libraries:      pynput, smtplib, threading, dotenv
