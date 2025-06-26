@@ -10,6 +10,10 @@
   <img src="https://img.shields.io/badge/License-MIT-blue?logo=open-source-initiative" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" alt="Hacker Terminal">
+</p>
+
 ---
 
 ## 🧠 About Me
