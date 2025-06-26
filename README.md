@@ -1,6 +1,3 @@
-
-
-````markdown
 <h1 align="center">Master Anon | @Anonsxb 👾</h1>
 <p align="center">
   <i>Python Developer • Cybersecurity Enthusiast • Bug Bounty Hunter</i>
@@ -26,12 +23,12 @@
 
 ## 🧰 Tools & Skills
 
-```bash
+```
 Languages:      Python, Bash, HTML
 Cyber:          Nmap, Wireshark, Burp Suite, Nikto
 Python Libs:    Scapy, Pynput, Dotenv, Threading
 Hacking Focus:  XSS, Recon, MITM, Input Capture
-````
+```
 
 ---
 
@@ -67,16 +64,3 @@ Hacking Focus:  XSS, Recon, MITM, Input Capture
 ---
 
 > “Stay curious. Think deep. Hack clean.” 🧠
-
-```
-name: Anonsxb
-bio: 🐍 Python Developer | 🛡️ Aspiring Cybersecurity Engineer | 🐞 Bug Bounty Hunter in Training  
-  Passionate about automation, ethical hacking, and building tools that make systems smarter & safer.
-location: Internet
-email: false
-hireable: true
-blog: false
-twitter_username: false
-linkedin_username: false
-
-```
