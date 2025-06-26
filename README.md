@@ -1,23 +1,31 @@
-<h1 align="center">Hi, I'm Master Anon 👨‍💻</h1>
+<h1 align="center">Master Anon | @Anonsxb 👾</h1>
+<p align="center">
+  <i>Python Developer • Cybersecurity Enthusiast • Bug Bounty Hunter</i>
+</p>
 
 <p align="center">
-  🐍 Python Enthusiast • 🛡️ Cybersecurity Learner • 🐞 Bug Bounty Beginner  
+  <img src="https://img.shields.io/badge/Python-3.6+-blue?logo=python" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Ethical%20Hacking-green?logo=security" />
+  <img src="https://img.shields.io/badge/Status-Always%20Learning-yellow?logo=github" />
+  <img src="https://img.shields.io/badge/License-MIT-blue?logo=open-source-initiative" />
 </p>
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
-- 💻 I'm currently learning **Ethical Hacking** and **Bug Bounty Hunting**
-- 🐍 I use Python to build tools for **network analysis**, **automation**, and **security testing**
-- 🔒 Focused on developing my skills in **XSS**, **recon**, and **network exploitation**
-- 🧰 Building projects like keyloggers, ARP spoofers, MAC changers, and more
+- 🐍 Python programmer with a passion for automation and system tools  
+- 🛡️ Learning **ethical hacking**, **bug bounty**, and **real-world exploits**  
+- 🧰 Building CLI tools for keylogging, spoofing, scanning, and more  
+- 🕶️ Dark-themed code, clean logic, and hacker vibes
 
 ---
 
-### 🛠️ Tech Stack
+## 🧰 Tools & Skills
 
 ```bash
 Languages:      Python, Bash, HTML
-Cyber Tools:    Nmap, Wireshark, Burp Suite, Scapy
-Libraries:      pynput, smtplib, threading, dotenv
+Cyber:          Nmap, Wireshark, Burp Suite, Nikto
+Python Libs:    Scapy, Pynput, Dotenv, Threading
+Hacking Focus:  XSS, Recon, MITM, Input Capture
+
